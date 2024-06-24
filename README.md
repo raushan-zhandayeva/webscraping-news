@@ -6,4 +6,7 @@ To this end, I have scraped news articles with Ukraine (or Ukrain*) query from J
 
 You can see them in the table below.
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
