@@ -49,7 +49,4 @@ Content Extraction:
 The zipfile library was used to open the DOCX files, which are essentially ZIP archives containing XML files.
 The xml.etree.ElementTree library was employed to parse the XML content extracted from the DOCX files.
 
-### 
-Euronews and BBC articles were accessed through the NexisUni database. They were loaded as DOC files and then scraped using BeautifulSoup package. 
-
 
