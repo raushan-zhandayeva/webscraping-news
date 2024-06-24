@@ -40,7 +40,6 @@ Data Retrieval: News articles were obtained as HTML files from the Integrum data
 Content Extraction: The BeautifulSoup package was used to parse these HTML files and extract the relevant information.
 
 ### 3. Euronews and BBC
-Channel 1 and Rossiya 1 news were accessed through the Integrum database. They were loaded as HTML file and then scraped using BeautifulSoup package. 
 Articles from these sources were accessed through the NexisUni database:
 
 Data Retrival: News articles were retrieved as DOCX files from the NexisUni database.
